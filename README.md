@@ -39,7 +39,7 @@ File yang dikirimkan memiliki format sebagai berikut:
 1. Coding script dalam bentuk ‘nama_lengkap-submission.ipynb’
 2. Nama file output (hasil prediksi terhadap data test): 'nama_lengkap-submission.csv' <br /> Kolom: 'Id' dan 'Predicted'. <br />Mohon perhatikan bahwa nama file dan nama kolom bersifat case sensitive.
 
-<img src="submission.jpg" align="center" width="600" />
+<img src="./submission.jpg" align="center" width="600" />
 
 ## Rules
 
