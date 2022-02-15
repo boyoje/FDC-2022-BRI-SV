@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/gharinn/Desktop/FDC 2022 BRI x SV/bin/python" "$0" "$@"
+'''exec' "/Users/gharinn/Desktop/FDC-2022-BRI-SV/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
