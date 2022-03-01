@@ -3,3 +3,5 @@ share/
 lib/
 bin/
 venv/
+.DS_Store
+thisvenv/

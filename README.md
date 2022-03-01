@@ -1,12 +1,6 @@
 
 # Financial Data Challange
 
-## Description
-Challenge ini dibuat dalam lingkup kerjasama PT. Sharing Vision Indonesia dengan BRI (PT Bank Rakyat Indonesia, Tbk) dengan tujuan:
-* Membuka kesempatan untuk peserta dari seluruh Indonesia, dari Sabang sampai Merauke untuk merasakan Challenge terhadap real financial use case, pengalaman-pengalaman dalam lingkungan BRI.
-* Membuka peluang peserta untuk mendapatkan kesempatan bekerja di BRI. Challenge ini dapat membantu BRI/Sharing Vision untuk melihat peserta yang berpotensi untuk ikut menjadi Team Big Data di lingkungan BRI/Sharing Vision.
-* Membuka peluang peserta yang ingin learning by doing.
-
 ## Use Case
 Dalam kompetisi ini, kasus yang peserta hadapi adalah churn. Churn adalah suatu istilah dimana nasabah meninggalkan perusahaan. Jika dalam dunia perbankan, nasabah tersebut pada periode tertentu memutuskan untuk tidak lagi menjadi nasabah di suatu bank dan mungkin kemudian menjadi nasabah di bank lain. Peserta akan diminta untuk membuat model machine learning untuk klasifikasi yang dapat membedakan antara nasabah yang tergolong churn dan yang tidak churn. 
 
